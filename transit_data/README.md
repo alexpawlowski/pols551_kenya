@@ -5,10 +5,25 @@ This Readme is based on the NTD's Readme for their monthly release added as a co
 Users are encouraged to read the totality of this readme file to understand limitations and other relevant details regarding the reported data and reporting process. 
 
 ------
-
-
-
 [TOC]
+
+## Contents
+
+[General Considerations](#general-considerations)
+
+​	[Four Worksheets](#four-worksheets)
+
+[Data Limitations](#data-limitations)
+
+[Major Data Considerations](#major-data-considerations)
+
+[UPT Data Estimation](#upt-data-estimation)
+
+[Who Reports?](#who-reports)
+
+[Report Layout](#report-layout)
+
+[How Often is the Data Set Updated?](#how-often-is-the-data-set-updated)
 
 ## General Considerations	
 
@@ -24,10 +39,10 @@ The Monthly module includes a limited set of key indicators reported by transit 
 
 The four data items included are:
 
-1.        Unlinked Passenger Trips 
-2.        Vehicle Revenue Miles
-3.        Vehicle Revenue Hours
-4.        Vehicles Operated in Maximum Service (Peak Vehicles)
+1. Unlinked Passenger Trips 
+2. Vehicle Revenue Miles
+3. Vehicle Revenue Hours
+4. Vehicles Operated in Maximum Service (Peak Vehicles)
 
 These data items are also reported in the Annual module. The definitions are the same for both modules, but in the Annual module the data is reported on a fiscal year basis and is an aggregate of the data for the 12 months comprising each property’s fiscal year. 
 ​	
