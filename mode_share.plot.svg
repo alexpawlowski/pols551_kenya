@@ -7,20 +7,19 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   viewBox="0 0 360.00 216.00"
-   id="svg4357"
+   viewBox="0 0 432.00 216.00"
+   id="svg20646"
    version="1.1"
    inkscape:version="0.91 r13725"
    sodipodi:docname="mode_share.plot.svg">
   <metadata
-     id="metadata4539">
+     id="metadata20832">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -33,22 +32,22 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1366"
-     inkscape:window-height="705"
-     id="namedview4537"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     id="namedview20830"
      showgrid="false"
-     inkscape:zoom="2"
-     inkscape:cx="178.07059"
-     inkscape:cy="95.551354"
+     inkscape:zoom="1.8856181"
+     inkscape:cx="172.6775"
+     inkscape:cy="120.34031"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer2" />
+     inkscape:current-layer="svg20646" />
   <defs
-     id="defs4359">
+     id="defs20648">
     <style
        type="text/css"
-       id="style4361"><![CDATA[
+       id="style20650"><![CDATA[
     line, polyline, path, rect, circle {
       fill: none;
       stroke: #000000;
@@ -57,563 +56,684 @@
       stroke-miterlimit: 10.00;
     }
   ]]></style>
-  </defs>
-  <defs
-     id="defs4367">
     <clipPath
-       id="cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==">
+       id="cpMHw0MzJ8MjE2fDA=-9">
       <rect
-         x="83.51"
-         y="9.96"
-         width="264.53"
-         height="144.83"
-         id="rect4370" />
+         x="0"
+         y="0"
+         width="432"
+         height="216"
+         id="rect20698-7" />
+    </clipPath>
+    <clipPath
+       id="cpMHw0MzJ8MjE2fDA=-1">
+      <rect
+         x="0"
+         y="0"
+         width="432"
+         height="216"
+         id="rect20698-0" />
+    </clipPath>
+    <clipPath
+       id="cpMHw0MzJ8MjE2fDA=-7">
+      <rect
+         x="0"
+         y="0"
+         width="432"
+         height="216"
+         id="rect20698-5" />
+    </clipPath>
+    <clipPath
+       id="cpMHw0MzJ8MjE2fDA=-95">
+      <rect
+         x="0"
+         y="0"
+         width="432"
+         height="216"
+         id="rect20698-6" />
+    </clipPath>
+    <clipPath
+       id="cpMHw0MzJ8MjE2fDA=-3">
+      <rect
+         x="0"
+         y="0"
+         width="432"
+         height="216"
+         id="rect20698-00" />
+    </clipPath>
+    <clipPath
+       id="cpMHw0MzJ8MjE2fDA=-2">
+      <rect
+         x="0"
+         y="0"
+         width="432"
+         height="216"
+         id="rect20698-77" />
     </clipPath>
   </defs>
+  <rect
+     width="100%"
+     height="100%"
+     style="stroke: none; fill: #FFFFFF;"
+     id="rect20652" />
+  <rect
+     x="0.00"
+     y="0.00"
+     width="432.00"
+     height="216.00"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #FFFFFF;"
+     id="rect20654" />
   <defs
-     id="defs4406">
+     id="defs20656">
     <clipPath
-       id="cpMHwzNjB8MjE2fDA=">
+       id="cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==">
+      <rect
+         x="67.08"
+         y="29.68"
+         width="352.96"
+         height="106.93"
+         id="rect20659" />
+    </clipPath>
+  </defs>
+  <rect
+     x="67.08"
+     y="85.58"
+     width="12.61"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #FF7F00; stroke-linecap: butt; fill: #FF7F00; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20661" />
+  <rect
+     x="79.69"
+     y="85.58"
+     width="6.30"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #FDBF6F; stroke-linecap: butt; fill: #FDBF6F; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20663" />
+  <rect
+     x="85.99"
+     y="85.58"
+     width="3.15"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #E31A1C; stroke-linecap: butt; fill: #E31A1C; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20665" />
+  <rect
+     x="89.14"
+     y="85.58"
+     width="0.00"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #FB9A99; stroke-linecap: butt; fill: #FB9A99; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20667" />
+  <rect
+     x="89.14"
+     y="85.58"
+     width="9.45"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #33A02C; stroke-linecap: butt; fill: #33A02C; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20669" />
+  <rect
+     x="98.60"
+     y="85.58"
+     width="34.67"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #B2DF8A; stroke-linecap: butt; fill: #B2DF8A; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20671" />
+  <rect
+     x="133.26"
+     y="85.58"
+     width="116.60"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #1F78B4; stroke-linecap: butt; fill: #1F78B4; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20673" />
+  <rect
+     x="249.87"
+     y="85.58"
+     width="170.18"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #A6CEE3; stroke-linecap: butt; fill: #A6CEE3; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20675" />
+  <rect
+     x="67.08"
+     y="36.97"
+     width="3.97"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #FF7F00; stroke-linecap: butt; fill: #FF7F00; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20677" />
+  <rect
+     x="71.05"
+     y="36.97"
+     width="0.00"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #FDBF6F; stroke-linecap: butt; fill: #FDBF6F; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20679" />
+  <rect
+     x="71.05"
+     y="36.97"
+     width="7.93"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #E31A1C; stroke-linecap: butt; fill: #E31A1C; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20681" />
+  <rect
+     x="78.98"
+     y="36.97"
+     width="15.86"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #FB9A99; stroke-linecap: butt; fill: #FB9A99; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20683" />
+  <rect
+     x="94.84"
+     y="36.97"
+     width="51.56"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #33A02C; stroke-linecap: butt; fill: #33A02C; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20685" />
+  <rect
+     x="146.40"
+     y="36.97"
+     width="0.00"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #B2DF8A; stroke-linecap: butt; fill: #B2DF8A; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20687" />
+  <rect
+     x="146.40"
+     y="36.97"
+     width="111.04"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #1F78B4; stroke-linecap: butt; fill: #1F78B4; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20689" />
+  <rect
+     x="257.44"
+     y="36.97"
+     width="162.60"
+     height="43.74"
+     style="stroke-width: 1.07; stroke: #A6CEE3; stroke-linecap: butt; fill: #A6CEE3; fill-opacity: 0.90;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20691" />
+  <rect
+     x="67.08"
+     y="29.68"
+     width="352.96"
+     height="106.93"
+     style="stroke-width: 2.13;"
+     clip-path="url(#cpNjcuMDgyOXw0MjAuMDQ1fDEzNi42MTV8MjkuNjgyNg==)"
+     id="rect20693" />
+  <defs
+     id="defs20695">
+    <clipPath
+       id="cpMHw0MzJ8MjE2fDA=">
       <rect
          x="0.00"
          y="0.00"
-         width="360.00"
+         width="432.00"
          height="216.00"
-         id="rect4409" />
+         id="rect20698" />
     </clipPath>
   </defs>
   <g
-     inkscape:groupmode="layer"
-     id="layer2"
-     inkscape:label="background">
-    <rect
-       style="opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:#ffffff;stroke-width:1.30304778;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-       id="rect4939"
-       width="358.69696"
-       height="214.69695"
-       x="0.65152389"
-       y="0.65152591" />
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20700">
+    <text
+       x="0.00"
+       y="111.39"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="65.43px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20702">Kenyan cities</text>
   </g>
   <g
-     inkscape:groupmode="layer"
-     id="layer1"
-     inkscape:label="plot">
-    <rect
-       x="83.51"
-       y="85.67"
-       width="25.98"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#FF7F00;stroke-linecap:butt;fill:#FF7F00;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4372" />
-    <rect
-       x="109.49"
-       y="85.67"
-       width="0.00"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#FDBF6F;stroke-linecap:butt;fill:#FDBF6F;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4374" />
-    <rect
-       x="109.49"
-       y="85.67"
-       width="4.72"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#E31A1C;stroke-linecap:butt;fill:#E31A1C;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4376" />
-    <rect
-       x="114.21"
-       y="85.67"
-       width="2.36"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#FB9A99;stroke-linecap:butt;fill:#FB9A99;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4378" />
-    <rect
-       x="116.58"
-       y="85.67"
-       width="9.45"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#33A02C;stroke-linecap:butt;fill:#33A02C;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4380" />
-    <rect
-       x="126.02"
-       y="85.67"
-       width="7.09"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#B2DF8A;stroke-linecap:butt;fill:#B2DF8A;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4382" />
-    <rect
-       x="133.11"
-       y="85.67"
-       width="87.39"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#1F78B4;stroke-linecap:butt;fill:#1F78B4;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4384" />
-    <rect
-       x="220.50"
-       y="85.67"
-       width="127.54"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#A6CEE3;stroke-linecap:butt;fill:#A6CEE3;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4386" />
-    <rect
-       x="83.51"
-       y="19.84"
-       width="0.00"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#FF7F00;stroke-linecap:butt;fill:#FF7F00;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4388" />
-    <rect
-       x="83.51"
-       y="19.84"
-       width="9.45"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#FDBF6F;stroke-linecap:butt;fill:#FDBF6F;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4390" />
-    <rect
-       x="92.96"
-       y="19.84"
-       width="0.00"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#E31A1C;stroke-linecap:butt;fill:#E31A1C;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4392" />
-    <rect
-       x="92.96"
-       y="19.84"
-       width="4.72"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#FB9A99;stroke-linecap:butt;fill:#FB9A99;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4394" />
-    <rect
-       x="97.68"
-       y="19.84"
-       width="2.36"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#33A02C;stroke-linecap:butt;fill:#33A02C;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4396" />
-    <rect
-       x="100.04"
-       y="19.84"
-       width="30.70"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#B2DF8A;stroke-linecap:butt;fill:#B2DF8A;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4398" />
-    <rect
-       x="130.75"
-       y="19.84"
-       width="66.13"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#1F78B4;stroke-linecap:butt;fill:#1F78B4;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4400" />
-    <rect
-       x="196.88"
-       y="19.84"
-       width="96.84"
-       height="59.25"
-       style="stroke-width:1.07;stroke:#A6CEE3;stroke-linecap:butt;fill:#A6CEE3;fill-opacity:0.9"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4402" />
-    <rect
-       x="83.51"
-       y="9.96"
-       width="264.53"
-       height="144.83"
-       style="stroke-width:2.13;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpODMuNTA5OXwzNDguMDQ1fDE1NC43OTJ8OS45NjI2NA==)"
-       id="rect4404" />
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4411"
-       style="fill:#000000;fill-opacity:1"
-       transform="translate(-4,0)">
-      <text
-         x="16.43"
-         y="119.23"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1"
-         textLength="65.43px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4413">Kenyan cities</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4415"
-       style="fill:#000000;fill-opacity:1"
-       transform="translate(-4,0)">
-      <text
-         x="31.719999"
-         y="53.400002"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1"
-         textLength="34.85px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4417">Nairobi</text>
-    </g>
-    <polyline
-       points="87.83,115.29 83.51,115.29 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4419" />
-    <polyline
-       points="87.83,49.46 83.51,49.46 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4421" />
-    <polyline
-       points="130.75,150.47 130.75,154.79 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4425" />
-    <polyline
-       points="177.99,150.47 177.99,154.79 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4427" />
-    <polyline
-       points="225.23,150.47 225.23,154.79 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4429" />
-    <polyline
-       points="272.46,150.47 272.46,154.79 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4431" />
-    <polyline
-       points="319.70,150.47 319.70,154.79 "
-       style="stroke-width:2.13;stroke-linecap:butt;fill:none;stroke:#000000;stroke-opacity:1"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="polyline4433" />
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4435"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="80.45"
-         y="164.32"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="6.12px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4437">0</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4439"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="124.63"
-         y="164.32"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="12.24px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4441">20</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4443"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="171.87"
-         y="164.32"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="12.24px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4445">40</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4447"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="219.11"
-         y="164.32"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="12.24px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4449">60</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4451"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="266.35"
-         y="164.32"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="12.24px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4453">80</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4455"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="310.53"
-         y="164.32"
-         style="font-size:11.25px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="18.35px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4457">100</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4459"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="187.24001"
-         y="174.7"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="57.08px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4461">Mode Share(%)</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4469"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="73.89"
-         y="201.37"
-         style="font-size:12px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="30.02px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4471">Mode</text>
-    </g>
-    <rect
-       x="108.23"
-       y="185.12"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4473" />
-    <rect
-       x="108.94"
-       y="185.82"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#A6CEE3;stroke-linejoin:miter;fill:#A6CEE3;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4475" />
-    <rect
-       x="108.23"
-       y="197.07"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4477" />
-    <rect
-       x="108.94"
-       y="197.78"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#1F78B4;stroke-linejoin:miter;fill:#1F78B4;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4479" />
-    <rect
-       x="168.23"
-       y="185.12"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4481" />
-    <rect
-       x="168.94"
-       y="185.82"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#B2DF8A;stroke-linejoin:miter;fill:#B2DF8A;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4483" />
-    <rect
-       x="168.23"
-       y="197.07"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4485" />
-    <rect
-       x="168.94"
-       y="197.78"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#33A02C;stroke-linejoin:miter;fill:#33A02C;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4487" />
-    <rect
-       x="227.51"
-       y="185.12"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4489" />
-    <rect
-       x="228.22"
-       y="185.82"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#FB9A99;stroke-linejoin:miter;fill:#FB9A99;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4491" />
-    <rect
-       x="227.51"
-       y="197.07"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4493" />
-    <rect
-       x="228.22"
-       y="197.78"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#E31A1C;stroke-linejoin:miter;fill:#E31A1C;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4495" />
-    <rect
-       x="310.66"
-       y="185.12"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4497" />
-    <rect
-       x="311.37"
-       y="185.82"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#FDBF6F;stroke-linejoin:miter;fill:#FDBF6F;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4499" />
-    <rect
-       x="310.66"
-       y="197.07"
-       width="15.94"
-       height="11.96"
-       style="stroke-width:1.07;stroke:#FFFFFF;fill:#F2F2F2"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4501" />
-    <rect
-       x="311.37"
-       y="197.78"
-       width="14.52"
-       height="10.54"
-       style="stroke-width:1.07;stroke:#FF7F00;stroke-linejoin:miter;fill:#FF7F00;fill-opacity:0.9"
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="rect4503" />
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4505"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="126.33"
-         y="195.75"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="28.89px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4507">Walk</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4509"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="126.33"
-         y="207.70"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="39.74px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4511">Matatu</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4513"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="186.33"
-         y="195.75"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="20.95px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4515">Car</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4517"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="186.33"
-         y="207.70"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="39.01px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4519">Others</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4521"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="245.61"
-         y="195.75"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="41.18px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4523">Bicycle</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4525"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="245.61"
-         y="207.70"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="62.89px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4527">Boda boda</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4529"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="328.76"
-         y="195.75"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="28.90px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4531">Moto</text>
-    </g>
-    <g
-       clip-path="url(#cpMHwzNjB8MjE2fDA=)"
-       id="g4533"
-       style="fill:#000000;fill-opacity:1">
-      <text
-         x="328.76"
-         y="207.70"
-         style="font-size:12.5px;font-family:Arial;fill:#000000;fill-opacity:1.0"
-         textLength="22.40px"
-         lengthAdjust="spacingAndGlyphs"
-         id="text4535">Bus</text>
-    </g>
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20704">
+    <text
+       x="15.29"
+       y="62.78"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="34.85px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20706">Nairobi</text>
+  </g>
+  <polyline
+     points="71.40,107.45 67.08,107.45 "
+     style="stroke-width: 2.13; stroke-linecap: butt;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="polyline20708" />
+  <polyline
+     points="71.40,58.85 67.08,58.85 "
+     style="stroke-width: 2.13; stroke-linecap: butt;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="polyline20710" />
+  <polyline
+     points="137.68,132.29 137.68,136.61 "
+     style="stroke-width: 2.13; stroke-linecap: butt;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="polyline20714" />
+  <polyline
+     points="208.27,132.29 208.27,136.61 "
+     style="stroke-width: 2.13; stroke-linecap: butt;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="polyline20716" />
+  <polyline
+     points="278.86,132.29 278.86,136.61 "
+     style="stroke-width: 2.13; stroke-linecap: butt;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="polyline20718" />
+  <polyline
+     points="349.45,132.29 349.45,136.61 "
+     style="stroke-width: 2.13; stroke-linecap: butt;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="polyline20720" />
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20724">
+    <text
+       x="64.02"
+       y="146.15"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="6.12px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20726">0</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20728">
+    <text
+       x="131.56"
+       y="146.15"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20730">20</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20732">
+    <text
+       x="202.15"
+       y="146.15"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20734">40</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20736">
+    <text
+       x="272.74"
+       y="146.15"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20738">60</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20740">
+    <text
+       x="343.33"
+       y="146.15"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="12.24px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20742">80</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20744">
+    <text
+       x="410.87"
+       y="146.15"
+       style="font-size: 11.25px; font-family: Arial;"
+       textLength="18.35px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20746">100</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20748">
+    <text
+       x="196.24"
+       y="157.72"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="94.65px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20750">Mode Share (%)</text>
+  </g>
+  <rect
+     x="103.85"
+     y="169.33"
+     width="279.43"
+     height="23.91"
+     style="stroke-width: 1.16; stroke: none; fill: #FFFFFF;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20752" />
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20754">
+    <text
+       x="103.85"
+       y="185.58"
+       style="font-size: 12.00px; font-family: Arial;"
+       textLength="30.02px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20756">Mode</text>
+  </g>
+  <rect
+     x="138.19"
+     y="169.33"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20758" />
+  <rect
+     x="138.89"
+     y="170.04"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #A6CEE3; stroke-linejoin: miter; fill: #A6CEE3; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20760" />
+  <rect
+     x="138.19"
+     y="181.28"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20762" />
+  <rect
+     x="138.89"
+     y="181.99"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #1F78B4; stroke-linejoin: miter; fill: #1F78B4; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20764" />
+  <rect
+     x="198.19"
+     y="169.33"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20766" />
+  <rect
+     x="198.90"
+     y="170.04"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #B2DF8A; stroke-linejoin: miter; fill: #B2DF8A; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20768" />
+  <rect
+     x="198.19"
+     y="181.28"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20770" />
+  <rect
+     x="198.90"
+     y="181.99"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #33A02C; stroke-linejoin: miter; fill: #33A02C; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20772" />
+  <rect
+     x="240.85"
+     y="169.33"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20774" />
+  <rect
+     x="241.56"
+     y="170.04"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #FB9A99; stroke-linejoin: miter; fill: #FB9A99; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20776" />
+  <rect
+     x="240.85"
+     y="181.28"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20778" />
+  <rect
+     x="241.56"
+     y="181.99"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #E31A1C; stroke-linejoin: miter; fill: #E31A1C; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20780" />
+  <rect
+     x="302.29"
+     y="169.33"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20782" />
+  <rect
+     x="303.00"
+     y="170.04"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #FDBF6F; stroke-linejoin: miter; fill: #FDBF6F; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20784" />
+  <rect
+     x="302.29"
+     y="181.28"
+     width="15.94"
+     height="11.96"
+     style="stroke-width: 1.16; stroke: #FFFFFF; fill: #F2F2F2;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20786" />
+  <rect
+     x="303.00"
+     y="181.99"
+     width="14.52"
+     height="10.54"
+     style="stroke-width: 1.07; stroke: #FF7F00; stroke-linejoin: miter; fill: #FF7F00; fill-opacity: 0.90;"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="rect20788" />
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20790">
+    <text
+       x="156.29"
+       y="179.96"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="28.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20792">Walk</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20794">
+    <text
+       x="156.29"
+       y="191.92"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="39.74px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20796">Matatu</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20798">
+    <text
+       x="216.29"
+       y="179.96"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="22.40px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20800">Bus</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20802">
+    <text
+       x="216.29"
+       y="191.92"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="20.95px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20804">Car</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20806">
+    <text
+       x="258.95"
+       y="179.96"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="28.90px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20808">Moto</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20810">
+    <text
+       x="258.95"
+       y="191.92"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="41.18px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20812">Bicycle</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20814">
+    <text
+       x="320.39"
+       y="179.96"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="62.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20816">Boda boda</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20818">
+    <text
+       x="320.39"
+       y="191.92"
+       style="font-size: 12.50px; font-family: Arial;"
+       textLength="39.01px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20820">Others</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20822">
+    <text
+       x="67.08"
+       y="19.98"
+       style="font-size: 14.40px; font-family: Arial;"
+       textLength="326.06px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20824">Mode Share in Nairobi compared to all Kenyan cities</text>
+  </g>
+  <g
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=)"
+     id="g20826">
+    <text
+       x="132.09"
+       y="206.49"
+       style="font-size: 10.80px; font-family: Arial;"
+       textLength="287.96px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20828">Data from Kenya Urbanization Review - World Bank (2016)</text>
+  </g>
+  <g
+     transform="translate(179.43625,-116.73994)"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=-9)"
+     id="g20790-5">
+    <text
+       x="156.28999"
+       y="179.96001"
+       style="font-size:12.5px;font-family:Arial"
+       textLength="28.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20792-3">Walk</text>
+  </g>
+  <g
+     transform="translate(179.43625,-67.012085)"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=-1)"
+     id="g20790-9">
+    <text
+       x="156.28999"
+       y="179.96001"
+       style="font-size:12.5px;font-family:Arial"
+       textLength="28.89px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20792-0">Walk</text>
+  </g>
+  <text
+     id="text20796-0"
+     lengthAdjust="spacingAndGlyphs"
+     textLength="39.74px"
+     style="font-size:12.5px;font-family:Arial"
+     y="63.220058"
+     x="182.79158">Matatu</text>
+  <g
+     transform="translate(26.501583,-78.972076)"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=-95)"
+     id="g20794-5">
+    <text
+       x="156.28999"
+       y="191.92"
+       style="font-size:12.5px;font-family:Arial"
+       textLength="39.74px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20796-9">Matatu</text>
+  </g>
+  <g
+     transform="translate(-106.14363,-128.62669)"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=-3)"
+     id="g20802-6">
+    <text
+       x="216.28999"
+       y="191.92"
+       style="font-size:12.5px;font-family:Arial"
+       textLength="20.95px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20804-3">Car</text>
+  </g>
+  <g
+     transform="translate(-111.35048,-67.012085)"
+     clip-path="url(#cpMHw0MzJ8MjE2fDA=-2)"
+     id="g20798-4">
+    <text
+       x="216.28999"
+       y="179.96001"
+       style="font-size:12.5px;font-family:Arial"
+       textLength="22.40px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text20800-6">Bus</text>
   </g>
 </svg>
