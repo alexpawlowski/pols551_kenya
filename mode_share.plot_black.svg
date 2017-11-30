@@ -11,7 +11,7 @@
    id="svg4357"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="mode_share.plot_black.svg">
+   sodipodi:docname="mode_share.plot.svg">
   <metadata
      id="metadata4539">
     <rdf:RDF>
@@ -33,12 +33,12 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
+     inkscape:window-width="1366"
+     inkscape:window-height="705"
      id="namedview4537"
      showgrid="false"
      inkscape:zoom="2"
-     inkscape:cx="263.16657"
+     inkscape:cx="141.66657"
      inkscape:cy="113.92585"
      inkscape:window-x="-8"
      inkscape:window-y="-8"
@@ -348,6 +348,18 @@
        textLength="18.35px"
        lengthAdjust="spacingAndGlyphs"
        id="text4457">100</text>
+  </g>
+  <g
+     clip-path="url(#cpMHwzNjB8MjE2fDA=)"
+     id="g4459"
+     style="fill:#f7f7f7">
+    <text
+       x="187.24001"
+       y="174.7"
+       style="font-size:12.5px;font-family:Arial;fill:#f7f7f7"
+       textLength="57.08px"
+       lengthAdjust="spacingAndGlyphs"
+       id="text4461">Mode Share(%)</text>
   </g>
   <g
      clip-path="url(#cpMHwzNjB8MjE2fDA=)"
